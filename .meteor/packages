@@ -8,4 +8,5 @@ meteor-platform
 autopublish
 insecure
 accounts-password
-accounts-ui
+useraccounts:bootstrap
+twbs:bootstrap
